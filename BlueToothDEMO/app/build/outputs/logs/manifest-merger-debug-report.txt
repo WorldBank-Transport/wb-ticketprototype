@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:17:1-56:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:6:7-32
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:5:7-30
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:10:2-78
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:10:19-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:11:2-62
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:11:19-59
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:12:2-68
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:12:19-65
+uses-sdk
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:5-15:126
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:5-15:126
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:5-15:126
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:5-15:126
+INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:5-15:126
+	tools:overrideLibrary
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:15:9-123
+	android:targetSdkVersion
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:42-71
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:14:15-41
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:17:5-31:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:46:5-54:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:17:18-50
+	android:icon
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:18:18-54
+activity#zj.com.cn.bluetooth.sdk.Main_Activity
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:20:19-51
+	android:configChanges
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:21:19-69
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:19:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:24:27-74
+activity#zj.com.cn.bluetooth.sdk.DeviceListActivity
+ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:27:9-30:72
+	android:label
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:28:19-56
+	android:configChanges
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:30:19-69
+	android:theme
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:29:19-53
+	android:name
+		ADDED from /Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/AndroidManifest.xml:27:19-76
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/AndroidManifest.xml:48:13-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/87aa1ece82802ba8fcf071dc9bfcdd16/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d45d187821806c60cd3efde68ac8b3a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/81334132bd7e2d98d318162eebfbc712/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4fbc0e8e2f3eccc1886064c0ebef0279/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/6aca79006e64210bca741a0651a5485e/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/kmli/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2040cd7f2af63d1fd1b7a492b6cef2ec/AndroidManifest.xml:26:9-47

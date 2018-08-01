@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_zxing_barcode_scanner.xml.flat",
+        "source": "/Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/res/layout/zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_zxing_capture.xml.flat",
+        "source": "/Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/drawable_app_icon.png.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/raw_zxing_beep.ogg.flat",
+        "source": "/Users/kmli/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/a12c9c158f2a04a15530068d796aed3d/res/raw/zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_message.xml.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_custom_title.xml.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/layout/custom_title.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/kmli/Development/wbg/BlueToothDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi_app_icon.png.flat",
+        "source": "/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/res/drawable-hdpi/app_icon.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/assets"><file name="demo.bmp" path="/Users/kmli/Development/wbg/BlueToothDEMO/app/src/main/assets/demo.bmp"/></source><source path="/Users/kmli/Development/wbg/BlueToothDEMO/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/kmli/Development/wbg/BlueToothDEMO/app/src/debug/assets"/></dataSet></merger>
